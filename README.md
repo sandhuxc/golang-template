@@ -1,4 +1,4 @@
-# WeTeck Golang Template
+# Golang Template
 
 Template includes JSON read write, Echo framework for API.
 
